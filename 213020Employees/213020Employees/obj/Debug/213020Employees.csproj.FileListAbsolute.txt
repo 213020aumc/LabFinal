@@ -1,0 +1,10 @@
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\bin\Debug\213020Employees.exe.config
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\bin\Debug\213020Employees.exe
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\bin\Debug\213020Employees.pdb
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\213020Employees.csproj.AssemblyReference.cache
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\_213020Employees.Form1.resources
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\_213020Employees.Properties.Resources.resources
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\213020Employees.csproj.GenerateResource.cache
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\213020Employees.csproj.CoreCompileInputs.cache
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\213020Employees.exe
+C:\Users\Faraz Sumra\source\repos\213020Employees\213020Employees\obj\Debug\213020Employees.pdb
